@@ -14,3 +14,7 @@ pip install neurokit2 streamlit
 ```
 streamlit run app.py
 ```
+
+# Screenshot
+
+![App screen with default values](/docs/screenshot.png?raw=true "App screen with default values")
